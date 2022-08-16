@@ -1,0 +1,14 @@
+<------- PROGRAMMING 2022 ASSIGNMENT 5: Output Results ------>
+
+<----------------- Author: Rebecca Hinrichs ----------------->
+
+The quantity of numbers is:  200
+
+The maximum number is:  1000
+
+The minimum number is:  7
+
+The total of the numbers is:  105527
+
+The average of the numbers is:  527.635
+
